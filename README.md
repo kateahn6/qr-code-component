@@ -4,7 +4,7 @@ This is a solution to the [QR Code Component](https://www.frontendmentor.io/chal
 
 ### The Challenge
 
-> A perfect first challenge if you're new to HTML and CSS. The card layout doesn't shift, so it's ideal if you haven't learned about building responsive layouts yet.
+> Your challenge is to build out this QR code component and get it looking as close to the design as possible.
 
 ### Screenshot
 ![desktop-design](https://github.com/user-attachments/assets/3e583694-10f2-4443-9572-9b3cac4d211a)
